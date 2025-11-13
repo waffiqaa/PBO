@@ -1,3 +1,7 @@
+# Nama: Waffiq adkhilniy MR
+# Nim: D0424310
+#TUGAS
+
 # Contoh Polymorphism dengan tema K-Band Xdinary Heroes
 
 class Lagu:
@@ -26,3 +30,4 @@ playlist = [HairCut(), StrawberryCake(), FreakingBad(), TestMe()]
 # Polymorphism in action!
 for lagu in playlist:
     lagu.play()
+
